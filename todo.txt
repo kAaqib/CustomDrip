@@ -1,0 +1,41 @@
+After logging in, Username must be displayed on the top right when on clicking takes you to the user profile page with their details, recent orders, )
+
+When the model is hovered, the display must change
+1) Model
+2) Close up of the item
+
+Clicking on customize, you will get two option
+1) Book a slot
+2) Create manually
+
+book a slot takes you to a form page to get the details
+manually will take you to the customization page
+It should ask do you want to customie a t shirt, hoodie, shirt, pant
+T-shirt
+This should have an image box with the options to select colour(4), type(rounded, vneck, polo, henley), size(default size(4) or give their measurements)
+Hoodie
+type(with and without pockets), others same
+Shirt
+type(plain, checks), cloth type(lenin, cotton), colour, number of pockets(1,2), size
+Pants
+type(formal, jeans), cloth type(cotton, denim), fit(slim, regular), sizesize(default size(4) or give their measurements)
+
+After selecting their options, user should be asked if they need a custom design which can be uploaded. It would cost extra.
+Form of design can be selected whether to be printed or embroidered.
+
+Confirm button to confirm the choices they entered.
+
+Clicking on confirm will take you to a page which shows all the choices they chose and the final price with delivery charge added(Rs.49).
+And the quantity.
+
+Buy now button.
+
+Payment page.
+
+Order details.
+
+Feedback form link (Takes you to a google form).
+
+
+
+ 
